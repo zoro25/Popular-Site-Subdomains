@@ -14,8 +14,8 @@ Well there are 2 reasons.
 2) the next reason is linked to the top and why do it at all, well it's the same question as why reinvent the wheel, ANSWER = my wheel is rounder
 
 
-# Contribute to this list with how you found a Sub I missed.
-At the moment RedTeamRecon is I beleive the most through and detailed SubDomain Scanner out there. It only uses OSINT and does not touch a scanned hosts network at all. All of the Subs in this updated list are found with ZERO bruteforcing. 
+# Contribute to this list with how you found a Sub I missed. - Raise an Issue
+At the moment RedTeamRecon is I believe the most through and detailed SubDomain Scanner out there. It only uses OSINT and does not touch a scanned hosts network at all. All of the Subs in this updated list are found with ZERO bruteforcing. 
 To reiterate there it currently has no brute force functionality but would be an easy addition if people requested it.
 
 # Thanks  
