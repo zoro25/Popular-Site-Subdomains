@@ -8,7 +8,7 @@ the company are working on or you want to check for security vulnerabilities, a 
 someone figured out that he could get in to [anybody's Facebook account](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) 
 due the a vulnerability that was only there on their very old subdomains.
 
-## Why the Fork ather than update Jamie's Page.
+## Why the Fork rather than update Jamie's Page.
 Well there are 2 reasons. 
 1) it was a permission issue with attempting the GitHub push, This is quicker for me and also easier as I'm still testing my RedTeamRecon tool which is being used to find all of these newly added SubDomains.
 2) the next reason is linked to the top and why do it at all, well it's the same question as why reinvent the wheel, ANSWER = my wheel is rounder
