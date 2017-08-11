@@ -1,6 +1,6 @@
 #Bounty - https://hackerone.com/uber - See Bounty page list of subs in and out of scope
 #Sites Grabbed using RedTeamRecon Tool - Twitter @TheTestManager
-#Usage allowed under Creative-Commons(BY-NC) - Feel free to enhance, Edit and Share - No Commercial Use
+#Usage allowed under Creative-Commons(BY-NC) - Feel free to enhance, Edit and Share - No Commercial Use - Also credit needs to be given Martin Hall @TheTestManager
 1.uber.com
 2001.uber.com
 2002.uber.com
