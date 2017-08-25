@@ -4330,10 +4330,6 @@ colorsync.apple.com
 columbo-event.apple.com
 columbo-event-uat.apple.com
 com.apple.com
-com252fdns252fmypage.apple.com
-com252fphobos.apple.com
-com2fhttp3aitunes.apple.com
-com2fhttp3awww.apple.com
 com3.apple.com
 comalbert.apple.com
 comitunes.apple.com
@@ -13701,7 +13697,7 @@ ts.apple.com
 tss-internal-mdn-pod2.apple.com
 tss-internal-rno-pod2.apple.com
 tsu.apple.com
-ttm@apple.com
+ttm.apple.com
 ttrs.apple.com
 ttrs-mdn.apple.com
 ttrs-nwk.apple.com
