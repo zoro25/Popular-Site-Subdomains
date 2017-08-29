@@ -291,6 +291,7 @@ testdrive.office.com
 training.drumbeat.office.com
 transform.office.com
 trustportal.office.com
+ttm.office.com
 uci.office.com
 vdw.transform.office.com
 vdwapi.transform.office.com
