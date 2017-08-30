@@ -1,6 +1,6 @@
 #Bounty Info - https://www.google.com/about/appsecurity/programs-home/
 #Sites Grabbed using RedTeamRecon Tool - Twitter @TheTestManager
-#Usage allowed under Creative-Commons(BY-NC) - Feel free to enhance, Edit and Share - No Commercial Use - Also credit needs to be given Martin Hall @TheTestManageraccount.godaddy.com
+#Usage allowed under Creative-Commons(BY-NC) - Feel free to enhance, Edit and Share - No Commercial Use - Also credit needs to be given Martin Hall @TheTestManageraccount
 0-19code.google.com
 0-static.reverse.spreadsheets.google.com
 0-www.google.com
