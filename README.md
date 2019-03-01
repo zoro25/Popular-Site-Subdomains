@@ -4,9 +4,9 @@ A list of subdomains for some of the most popular sites on the internet. Made as
 
 # Why?
 There are plenty of reasons why people sometimes want a list of subdomains for a website. Whether you're just curious what type of stuff
-the company are working on or you want to check for security vulnerabilities, a list of subdomains can really come in handy. Not so long back
+a company is working on or you want to check for security vulnerabilities, a list of subdomains can really come in handy. Not so long back
 someone figured out that he could get in to [anybody's Facebook account](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) 
-due the a vulnerability that was only there on their very old subdomains.
+due the a vulnerability that was only exploitable on very old subdomains.
 
 ## Why the fork rather than update Jamie's Page.
 Well there are 2 reasons. 
